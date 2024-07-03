@@ -1,5 +1,7 @@
 ## Simple galaxy simulator
+
 **Authors**: Damian Boquete Costa & Nikola Antonijevic
+
 **Last modification**: 03.01.2021
 
 ---
